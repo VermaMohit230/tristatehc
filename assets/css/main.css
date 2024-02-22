@@ -1,39 +1,3 @@
-/***************************************************
-================ Master Stylesheet =================
-====================================================
-Template Name: HounLare
-Template URL: http://oilytheme.net/demo-html/2021/003/hounlare/preview/index.html
-Description: 
-Author: OilyTheme
-Author URL: https://themeforest.net/user/oilytheme
-Version: 1.0
-****************************************************/
-
-
-/***************************************************
-=================== CSS INDEX ======================
-====================================================
-01. Google Font
-02. Reset CSS
-03. Animations
-04. Preloader
-05. Scroll To Top
-06. Input
-07. Button
-08. Title Style
-09. Header
-10. Footer
-11. Slider and Hero
-12. Service and Feature
-13. Project and Portfolio
-14. Blog or News
-15. Testimonial
-16. Team
-17. About
-18. Sidebar and Page title
-19. Other Sections (Author CSS End)
-20. Helper classes
-****************************************************/
 
 
 /*==================================================
@@ -173,7 +137,7 @@ h4,
 h5,
 h6 {
   font-family: "Poppins", sans-serif;
-  color: #223645;
+  color: #154287;
   font-weight: 600;
 }
 
@@ -575,7 +539,7 @@ button.button {
 
 .h1 {
   font-size: 40px;
-  color: #223645;
+  color: #154287;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
@@ -594,7 +558,7 @@ button.button {
 
 .h2 {
   font-size: 32px;
-  color: #223645;
+  color: #154287;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
@@ -613,7 +577,7 @@ button.button {
 
 .h3 {
   font-size: 28px;
-  color: #223645;
+  color: #154287;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
@@ -632,7 +596,7 @@ button.button {
 
 .h4 {
   font-size: 24px;
-  color: #223645;
+  color: #154287;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
@@ -651,7 +615,7 @@ button.button {
 
 .h5 {
   font-size: 20px;
-  color: #223645;
+  color: #154287;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
@@ -670,7 +634,7 @@ button.button {
 
 .h6 {
   font-size: 16px;
-  color: #223645;
+  color: #154287;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
@@ -696,7 +660,7 @@ button.button {
 
 #amount_shop {
   border: 0px;
-  color: #223645;
+  color: #154287;
   font-weight: bold;
 }
 
@@ -1906,7 +1870,7 @@ a.meanmenu-reveal {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  color: #fff;
+  color: #fff !important;
   background: #154287;
   border: none;
   font-family: "Poppins", sans-serif;
@@ -2397,13 +2361,13 @@ i[class*=" flaticon-"]:before {
 }
 
 .title1 h4 span {
-  color: #223645;
+  color: #154287;
 }
 
 .title1 h2 {
   font-size: 40px;
   line-height: 50px;
-  color: #223645;
+  color: #154287;
   font-weight: bold;
 }
 
@@ -2438,7 +2402,7 @@ i[class*=" flaticon-"]:before {
 .title2 h2 {
   font-size: 40px;
   line-height: 50px;
-  color: #223645;
+  color: #154287;
   font-weight: bold;
   margin-bottom: 24px;
 }
@@ -2476,7 +2440,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .header__top1--left span {
-  color: #223645;
+  color: #154287;
   font-size: 14px;
   line-height: 24px;
 }
@@ -2495,7 +2459,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .header__top1--email span {
-  color: #223645;
+  color: #154287;
   font-size: 14px;
   line-height: 24px;
   padding-right: 13px;
@@ -2567,14 +2531,14 @@ i[class*=" flaticon-"]:before {
 .header__top1--language ul.language-ul>li>a span {
   font-weight: 500;
   font-size: 14px;
-  color: #223645;
+  color: #154287;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
 }
 
 .header__top1--language ul.language-ul>li>a span i {
-  color: #223645;
+  color: #154287;
   font-size: 14px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -2638,14 +2602,14 @@ i[class*=" flaticon-"]:before {
 .header__top1--language ul.language-ul>li ul.language-ul2 li a span {
   font-weight: 500;
   font-size: 14px;
-  color: #223645;
+  color: #154287;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
 }
 
 .header__top1--language ul.language-ul>li ul.language-ul2 li a span i {
-  color: #223645;
+  color: #154287;
   font-size: 14px;
 }
 
@@ -2759,7 +2723,7 @@ i[class*=" flaticon-"]:before {
   background-color: #FFC9CC;
   text-align: center;
   line-height: 56px;
-  color: #223645;
+  color: #154287;
   margin-right: -5px;
 }
 
@@ -2846,7 +2810,7 @@ i[class*=" flaticon-"]:before {
   background-color: #f8b832;
   text-align: center;
   line-height: 56px;
-  color: #223645;
+  color: #154287;
 }
 
 .header.home1 .main-menu nav>ul>li {
@@ -2857,7 +2821,7 @@ i[class*=" flaticon-"]:before {
 .header.home1 .main-menu nav>ul>li a {
   font-size: 16px;
   display: inline-block;
-  color: #223645;
+  color: #154287;
   line-height: 24px;
   font-weight: 500;
   letter-spacing: 0.75px;
@@ -3069,7 +3033,7 @@ i[class*=" flaticon-"]:before {
 .header.home2 .main-menu nav>ul>li a {
   font-size: 16px;
   display: inline-block;
-  color: #223645;
+  color: #154287;
   line-height: 24px;
   font-weight: 500;
   letter-spacing: 0.75px;
@@ -3224,7 +3188,7 @@ i[class*=" flaticon-"]:before {
 
 .extra_info--address ul li span {
   font-size: 15px;
-  color: #223645;
+  color: #154287;
 }
 
 .extra_info--social a {
@@ -3240,7 +3204,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .extra_info--social a:hover {
-  background-color: #223645;
+  background-color: #154287;
   color: #fff;
 }
 
@@ -3279,7 +3243,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .header__top2 {
-  background: #223645;
+  background: #154287;
 }
 
 .header__top2--left {
@@ -3434,14 +3398,14 @@ i[class*=" flaticon-"]:before {
 .header__top2--right .header__top2--language .language-ul>li ul.language-ul2 li a span {
   font-weight: 500;
   font-size: 14px;
-  color: #223645;
+  color: #154287;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
 }
 
 .header__top2--right .header__top2--language .language-ul>li ul.language-ul2 li a span i {
-  color: #223645;
+  color: #154287;
   font-size: 14px;
 }
 
@@ -3503,7 +3467,7 @@ i[class*=" flaticon-"]:before {
   font-size: 24px;
   line-height: 24px;
   font-weight: 600;
-  color: #223645;
+  color: #154287;
   margin-left: 10px;
 }
 
@@ -3555,7 +3519,7 @@ i[class*=" flaticon-"]:before {
   font-size: 24px;
   line-height: 24px;
   font-weight: 600;
-  color: #223645;
+  color: #154287;
   margin-left: 10px;
 }
 
@@ -3572,7 +3536,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .header.home3 .header__top3 {
-  background: #223645;
+  background: #154287;
 }
 
 @media only screen and (max-width: 991px) {
@@ -3616,7 +3580,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .header.home3 .header__top3--btn a:hover {
-  color: #223645;
+  color: #154287;
 }
 
 @media only screen and (max-width: 991px) {
@@ -3807,7 +3771,7 @@ i[class*=" flaticon-"]:before {
 
 .header.home3 .header__side-nav .search_box_container .search_btn {
   display: inline-block;
-  color: #223645;
+  color: #154287;
   font-size: 18px;
   margin-right: 35px;
 }
@@ -3884,7 +3848,7 @@ i[class*=" flaticon-"]:before {
   top: 1px;
   display: inline-block;
   padding: 8px 15px 10px 6px;
-  color: #223645;
+  color: #154287;
   border: none;
   background: transparent;
 }
@@ -3933,7 +3897,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .header.home1 .menu_sticky .header__side-nav ul li button {
-  color: #223645;
+  color: #154287;
   background-color: #fff;
 }
 
@@ -4442,7 +4406,7 @@ i[class*=" flaticon-"]:before {
   font-size: 48px;
   line-height: 55px;
   font-weight: bold;
-  color: #223645;
+  color: #154287;
 }
 
 @media only screen and (max-width: 767px) {
@@ -4638,7 +4602,7 @@ i[class*=" flaticon-"]:before {
 
 .service1__content h3 {
   font-size: 24px;
-  color: #223645;
+  color: #154287;
   line-height: 30px;
   letter-spacing: 0.25px;
   text-transform: capitalize;
@@ -4677,7 +4641,7 @@ i[class*=" flaticon-"]:before {
   height: 60px;
   width: 60px;
   background: #fff;
-  color: #223645;
+  color: #154287;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -4974,7 +4938,7 @@ i[class*=" flaticon-"]:before {
   height: 60px;
   width: 60px;
   background: #fff;
-  color: #223645;
+  color: #154287;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -5009,15 +4973,15 @@ i[class*=" flaticon-"]:before {
 }
 
 .feature1 {
-  background: #FFCDD0;
+  background: #f8b832;
 }
 
 .feature1__bg-01 {
-  background: #FDB4B7;
+  background: #fad993;
 }
 
 .feature1__bg-02 {
-  background: #FFCDD0;
+  background: #f8b832;
 }
 
 @media only screen and (max-width: 991px) {
@@ -5055,7 +5019,7 @@ i[class*=" flaticon-"]:before {
   height: 60px;
   width: 60px;
   background: #fff;
-  color: #223645;
+  color: #154287;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -5215,7 +5179,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .profile1__item--thumb i:before {
-  color: #223645;
+  color: #154287;
   font-size: 30px;
 }
 
@@ -5529,7 +5493,7 @@ i[class*=" flaticon-"]:before {
   height: 60px;
   width: 60px;
   background: #fff;
-  color: #223645;
+  color: #154287;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -6232,7 +6196,7 @@ i[class*=" flaticon-"]:before {
   font-size: 30px;
   line-height: 40px;
   font-weight: bold;
-  color: #223645;
+  color: #154287;
   margin-bottom: 30px;
 }
 
@@ -6248,7 +6212,7 @@ i[class*=" flaticon-"]:before {
   font-size: 24px;
   line-height: 34px;
   font-weight: 600;
-  color: #223645;
+  color: #154287;
   position: relative;
   margin-bottom: 46px;
 }
@@ -6310,7 +6274,7 @@ i[class*=" flaticon-"]:before {
   height: 60px;
   width: 60px;
   background: #EBE9F0;
-  color: #223645;
+  color: #154287;
   text-align: center;
   position: absolute;
   bottom: 20px;
@@ -6632,7 +6596,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .about2 {
-  background: #223645;
+  background: #154287;
 }
 
 .about2 .title2 h2 {
@@ -6737,7 +6701,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .about2.other_page .about2__item--content h4 {
-  color: #223645;
+  color: #154287;
 }
 
 .about2.other_page .about2__item {
@@ -6981,7 +6945,7 @@ i[class*=" flaticon-"]:before {
   height: 60px;
   width: 60px;
   background: #fff;
-  color: #223645;
+  color: #154287;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -7076,7 +7040,7 @@ i[class*=" flaticon-"]:before {
   font-size: 24px;
   line-height: 34px;
   font-weight: 600;
-  color: #223645;
+  color: #154287;
 }
 
 .about5__content ul li a span {
@@ -7105,7 +7069,7 @@ i[class*=" flaticon-"]:before {
 ===| 18. Sidebar and Page title
 ===================================================*/
 .page_title__img-01 {
-  background: url(../img/background/bg-17.jpg);
+  background: url(../images/bg-17.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -7201,7 +7165,7 @@ i[class*=" flaticon-"]:before {
   font-size: 36px;
   line-height: 46px;
   font-weight: bold;
-  color: #223645;
+  color: #154287;
   margin-bottom: 17px;
 }
 
@@ -7224,7 +7188,7 @@ i[class*=" flaticon-"]:before {
 .page_title__bread-crumb ul li a {
   font-size: 20px;
   font-weight: 600;
-  color: #223645;
+  color: #154287;
   color: #292929;
 }
 
@@ -7511,7 +7475,7 @@ i[class*=" flaticon-"]:before {
   font-size: 14px;
   line-height: 20px;
   font-weight: 500;
-  color: #223645;
+  color: #154287;
 }
 
 .sidebar2__search {
@@ -7647,7 +7611,7 @@ i[class*=" flaticon-"]:before {
 .sidebar2__tags--content a {
   display: inline-block;
   background: #fff;
-  color: #223645;
+  color: #154287;
   padding: 7px 12px;
   font-weight: 600;
   font-size: 16px;
@@ -8419,7 +8383,7 @@ i[class*=" flaticon-"]:before {
   font-size: 60px;
   font-weight: 700;
   line-height: 65px;
-  color: #223645;
+  color: #154287;
   margin-bottom: 45px;
 }
 
@@ -8533,7 +8497,7 @@ i[class*=" flaticon-"]:before {
   font-size: 60px;
   font-weight: 700;
   line-height: 65px;
-  color: #223645;
+  color: #154287;
   margin-bottom: 45px;
 }
 
@@ -8832,7 +8796,7 @@ i[class*=" flaticon-"]:before {
   font-size: 18px;
   line-height: 28px;
   font-weight: 600;
-  color: #223645;
+  color: #154287;
   margin-bottom: 7px;
   display: block;
 }
@@ -8909,7 +8873,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .counter1__thumb i {
-  color: #000;
+  color: #154287;
   position: absolute;
   z-index: 20;
   top: 50%;
@@ -8930,7 +8894,7 @@ i[class*=" flaticon-"]:before {
   font-size: 36px;
   line-height: 36px;
   font-weight: 600;
-  color: #223645;
+  color: #154287;
   margin-bottom: 14px;
   position: relative;
   display: inline-block;
@@ -8939,7 +8903,7 @@ i[class*=" flaticon-"]:before {
 .counter1__content h3:before {
   position: absolute;
   content: '+';
-  color: #223645;
+  color: #154287;
   font-size: 36px;
   top: 0px;
   right: -25px;
@@ -9125,7 +9089,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .cta4 .title2 p {
-  color: #223645;
+  color: #154287;
   letter-spacing: 1px;
   word-spacing: 2px;
   margin-bottom: 40px;
@@ -9397,7 +9361,7 @@ i[class*=" flaticon-"]:before {
   font-size: 22px;
   line-height: 32px;
   font-weight: bold;
-  color: #223645;
+  color: #154287;
   margin-left: 15px;
   margin-top: 14px;
   display: inline-block;
@@ -9450,7 +9414,7 @@ i[class*=" flaticon-"]:before {
   height: 60px;
   width: 60px;
   background: #fff;
-  color: #223645;
+  color: #154287;
   text-align: center;
   position: absolute;
   top: 50%;
@@ -10065,7 +10029,7 @@ i[class*=" flaticon-"]:before {
   font-size: 16px;
   line-height: 26px;
   font-weight: 600;
-  color: #223645;
+  color: #154287;
   border: none;
   background: #fff;
   position: relative;
@@ -10088,7 +10052,7 @@ i[class*=" flaticon-"]:before {
   position: absolute;
   right: 20px;
   top: 14px;
-  color: #223645;
+  color: #154287;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -10255,7 +10219,7 @@ i[class*=" flaticon-"]:before {
 }
 
 .why_choose_us1 {
-  background: #223645;
+  background: #154287;
 }
 
 .why_choose_us1 .title2 h2 {
@@ -10349,7 +10313,7 @@ i[class*=" flaticon-"]:before {
   font-size: 24px;
   line-height: 34px;
   font-weight: 600;
-  color: #223645;
+  color: #154287;
   margin-bottom: 22px;
 }
 
@@ -10391,7 +10355,7 @@ i[class*=" flaticon-"]:before {
   font-size: 36px;
   line-height: 46px;
   font-weight: 600;
-  color: #223645;
+  color: #154287;
 }
 
 @media only screen and (max-width: 479px) {
@@ -10446,53 +10410,53 @@ i[class*=" flaticon-"]:before {
   border: none;
   font-size: 16px;
   line-height: 26px;
-  color: #223645;
+  color: #154287;
 }
 
 .contact_page1__form .form-control::-webkit-input-placeholder {
-  color: #223645;
+  color: #154287;
   font-size: 16px;
   line-height: 26px;
   text-transform: inherit;
 }
 
 .contact_page1__form .form-control:-ms-input-placeholder {
-  color: #223645;
+  color: #154287;
   font-size: 16px;
   line-height: 26px;
   text-transform: inherit;
 }
 
 .contact_page1__form .form-control::-ms-input-placeholder {
-  color: #223645;
+  color: #154287;
   font-size: 16px;
   line-height: 26px;
   text-transform: inherit;
 }
 
 .contact_page1__form .form-control::-webkit-input-placeholder {
-  color: #223645;
+  color: #154287;
   font-size: 16px;
   line-height: 26px;
   text-transform: inherit;
 }
 
 .contact_page1__form .form-control::-moz-placeholder {
-  color: #223645;
+  color: #154287;
   font-size: 16px;
   line-height: 26px;
   text-transform: inherit;
 }
 
 .contact_page1__form .form-control:-ms-input-placeholder {
-  color: #223645;
+  color: #154287;
   font-size: 16px;
   line-height: 26px;
   text-transform: inherit;
 }
 
 .contact_page1__form .form-control::placeholder {
-  color: #223645;
+  color: #154287;
   font-size: 16px;
   line-height: 26px;
   text-transform: inherit;
@@ -10727,3 +10691,391 @@ https://www.phpied.com/delay-loading-your-print-css/
 /*==================================================
 ===| Style CSS End
 ===================================================*/
+
+
+
+#Login .version {
+  position: absolute;
+  bottom: 1em;
+  right: 2em;
+  border-radius: 40px;
+  background: #ff4b2b;
+  color: #fff;
+  font-size: 1em;
+  font-weight: bold;
+  padding: 0.8em 2em;
+  letter-spacing: 1px;
+  transition: transform 80ms ease-in;
+}
+#Login form input {
+  background: #eee;
+  border: none;
+  padding: 12px 15px;
+  margin: 8px 0;
+  width: 100%;
+  font-size: 1em;
+}
+#Login span {
+  color: #333;
+  font-size: 1em;
+  display: inline-block;
+  margin: 15px auto;
+  font-weight: 100;
+}
+#Login span.remember {
+  float: left;
+}
+/* #Login span.remember::before {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  border: 2px solid #999;
+  vertical-align: top;
+  margin-right: 4px;
+} */
+#Login .remember input{
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  border: 2px solid #999;
+  vertical-align: top;
+  margin-right: 10px;
+  margin-top: 4px;
+}
+#Login span.forget {
+  float: right;
+  color: #1b75d0;
+}
+#Login span.clearfix {
+  clear: both;
+  display: table;
+}
+#Login span.loginwith {
+  display: block;
+  width: 100%;
+  margin-top: 1em;
+  white-space: nowrap;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* #Login span.loginwith::before {
+  content: "";
+  display: inline-block;
+  width: 42%;
+  height: 1px;
+  background: #aaa;
+  vertical-align: middle;
+  margin-right: 5%;
+}
+#Login span.loginwith::after {
+  content: "";
+  display: inline-block;
+  width: 45%;
+  height: 1px;
+  background: #aaa;
+  vertical-align: middle;
+  margin-left: 5%;
+} */
+#Login span.copy {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  font-size: 1em;
+}
+#Login button {
+  display: block;
+  margin: 1em auto;
+  border-radius: 40px;
+  border: 1px solid #154287;
+  background: #154287;
+  color: #fff;
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 0.8em 2em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  transition: transform 80ms ease-in;
+}
+#Login button svg {
+  vertical-align: middle;
+}
+#Login button:hover {
+  cursor: pointer;
+}
+#Login button:active {
+  transform: scale(0.95);
+}
+#Login button:focus {
+  outline: none;
+}
+#Login .modal-body{
+  border-radius: 20px;
+}
+#Login #container {
+  width: 100%;
+  max-width: 800px;
+  height: 500px;
+  position: relative;
+  border-radius: 0.3rem;
+  box-shadow: 0 14px 28px -10px rgba(0, 0, 0, .1), 0 10px 10px -10px rgba(0, 0, 0, .02);
+  transform-style: preserve-3d;
+}
+#Login #container > div {
+  position: absolute;
+  width: 50%;
+  min-width: 350px;
+  height: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#Login .content {
+  width: 100%;
+  padding: 2em 2em;
+  text-align: center;
+}
+#Login .content p {
+  font-size: 1em;
+}
+#Login .login {
+  left: 0;
+  background: #fafafa;
+  border-radius: 20px 0 0 20px;
+}
+#Login .login button {
+  border-radius: 0px;
+  width: 100%;
+}
+#Login .login svg {
+  margin: 1em;
+  stroke: #999;
+}
+#Login .register {
+  right: 0;
+  z-index: 1;
+  border-radius: 0 20px 20px 0;
+  background: #fafafa;
+}
+#Login .register button {
+  border-radius: 0px;
+  width: 100%;
+}
+#Login .register svg {
+  margin: 1em;
+  stroke: #999;
+}
+#Login .page {
+  right: 0;
+  color: #fff;
+  border-radius: 0.3rem;
+  transform-origin: left center;
+  transition: animation 1s linear;
+}
+#Login .page button {
+  border-color: #fff;
+  background: transparent;
+}
+#Login .page p {
+  margin: 1em auto;
+  color: #fff;
+}
+#Login .front {
+ /* background:linear-gradient(-45deg, #f8b932 0%, #154287 100%) no-repeat 0 0 / 200%;
+  */
+  background: #154287;
+  z-index: 3;
+}
+#Login .back {
+  background: linear-gradient(135deg, #f8b932 0%, #154287 100%) no-repeat 0 0 / 200%;
+  z-index: 2;
+}
+#Login .back .content {
+  transform: rotateY(180deg);
+}
+#Login .active .front {
+  animation: rot-front 0.6s ease-in-out normal forwards;
+}
+#Login .active .back {
+  animation: rot-back 0.6s ease-in-out normal forwards;
+}
+#Login .close .front {
+  animation: close-rot-front 0.6s ease-in-out normal forwards;
+}
+#Login .close .back {
+  animation: close-rot-back 0.6s ease-in-out normal forwards;
+}
+@keyframes rot-front {
+  from {
+    transform: translateZ(2px) rotateY(0deg);
+ }
+  to {
+    transform: translateZ(1px) rotateY(-180deg);
+ }
+}
+@keyframes close-rot-front {
+  from {
+    transform: translateZ(1px) rotateY(-180deg);
+ }
+  to {
+    transform: translateZ(2px) rotateY(0deg);
+ }
+}
+@keyframes rot-back {
+  from {
+    transform: translateZ(1px) rotateY(0deg);
+ }
+  to {
+    transform: translateZ(2px) rotateY(-180deg);
+ }
+}
+@keyframes close-rot-back {
+  from {
+    transform: translateZ(2px) rotateY(-180deg);
+ }
+  to {
+    transform: translateZ(1px) rotateY(0deg);
+ }
+}
+#Login .active .register .content {
+  animation: show 0.7s ease-in-out normal forwards;
+}
+#Login .close .register .content {
+  animation: hide 0.7s ease-in-out normal forwards;
+}
+#Login .active .login .content {
+  animation: hide 0.7s ease-in-out normal forwards;
+}
+#Login .close .login .content {
+  animation: show 0.7s ease-in-out normal forwards;
+}
+@keyframes show {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+ }
+  to {
+    opacity: 0.99;
+    transform: scale(0.99);
+ }
+}
+@keyframes hide {
+  from {
+    opacity: 0.99;
+    transform: scale(0.99);
+ }
+  to {
+    opacity: 0;
+    transform: scale(0.8);
+ }
+}
+#Login p.loginlogo {
+  background: #fff;
+  position: relative;
+  border-radius: 100%;
+  padding: 10px;
+  margin: 0;
+}
+#Login .close {
+  float: right;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff !important;
+  text-shadow: 0 1px 0 #fff;
+  opacity: 1;
+  position: relative;
+  right: 10px;
+  top: 10px;
+  z-index: 9;
+}
+
+
+#Signup .content{
+  background-color:white;
+  padding-bottom: 15px;
+  margin: 50px 0;
+  /* width:500px;
+  height:500px; */
+}
+#Signup img{
+  width: 100%;
+  height: 25%;
+}
+#Signup .form-title{
+  padding:10px 40px 0px;
+}
+#Signup form{
+  padding:0px 40px;
+}
+#Signup input[type=text], [type=email]{
+  border: none;
+  border-bottom: 1px solid black;
+  outline:none;
+  width:100%;
+  margin: 8px 0;
+  padding:10px 0;
+}
+#Signup input[type=number]{
+  border: none;
+  border-bottom: 1px solid black;
+  outline:none;
+  margin: 8px 0;
+  padding:5px 0;
+}
+#Signup input :hover {
+  background-color: red;
+}
+#Signup select{
+  border: none;
+  border-bottom: 1px solid black;
+  outline:none;
+  margin: 8px 0;
+  padding:5px 0;
+  width:50%;
+}
+#Signup .beside{
+  display:flex;  
+  justify-content: space-between;
+}
+#Signup button{
+  color:#ffffff;
+  background-color: #154287;
+  height:40px;
+  width:25%;
+  margin-top:15px;
+  cursor: pointer;
+  border:none;
+  border-radius:2%;
+  float: right;
+  outline:none;
+  text-align:center;
+  font-size:16px;
+  text-decoration:none;
+  -webkit-transition-duration:0.4s;
+  transition-duration:0.4s;
+}
+#Signup button:hover{
+  background-color:#333333;
+}
+#Signup p.registerlogo {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+#Signup p.registerlogo {
+  width: 250px;
+}
+#Signup .form-title{
+  margin-top: 0;
+  padding-top: 0;
+}
+#Signup .close {
+  margin: 10px;
+  color: #154287;
+  opacity: 1;
+}
